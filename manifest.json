@@ -15,7 +15,7 @@
         {
             "all_frames": true,
             "js": ["loader.js"],
-            "matches": ["*://www.douyutv.com/*"],
+            "matches": ["*://www.douyu.com/*"],
             "run_at": "document_idle"
         }
     ],
